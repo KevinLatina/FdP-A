@@ -1,4 +1,4 @@
-// Studente: Latina Kevin | Matricola :335157 | Task 4
+// Studente: Latina Kevin  | Task 4
 #include <iostream>
 #include <cstring>
 using namespace std;
